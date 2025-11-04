@@ -1,7 +1,5 @@
 # portifolio-analise-de-dados
-Portfólio com meus projetos de análise de dados: Excel, Power BI, SQL e Python.
 
-# Portfólio de Análise de Dados – Nivaldo Piardi
 
 Olá! 👋  
 Sou formado em Administração e atualmente atuo na área comercial de uma clínica odontológica, com experiência em planejamento de demanda e estoque.  
